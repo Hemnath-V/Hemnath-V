@@ -108,12 +108,16 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 📌 Pinned Projects
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hemnath-V&repo=amazon-sales-dashboard&theme=radical)](https://github.com/Hemnath-V/amazon-sales-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hemnath-V&repo=heart-disease-analysis&theme=radical)](https://github.com/Hemnath-V/heart-disease-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hemnath-V&repo=hospitality-powerbi&theme=radical)](https://github.com/Hemnath-V/hospitality-powerbi)
+<h3 align="center">✨ Quote to Code By</h3>
+
+<p align="center">
+  <em>"Started with console.log('Hello World'),<br>
+  Now building worlds with React & a pinch of AI."</em> 🚀
+</p>
 
 ---
+
 
 ⭐ **Thanks for visiting my profile! Drop a ⭐ on your favorite project**
