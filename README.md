@@ -12,7 +12,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-### I’m currently learning & building
+### 🌱 I’m currently learning & building
 🧑‍💻 Creating Web Development projects using React
 
 🎨 Learning and leveling up in Front-End Development
