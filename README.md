@@ -76,8 +76,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>    
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Power_bi_logo_black.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>   
 </p>
 
 
@@ -96,8 +95,6 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>  
   
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/>  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
 
