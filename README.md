@@ -7,7 +7,7 @@
 
 ---
 
-## 🔭 Portfolio
+### 🔭 Portfolio
 Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.com)
 
 ---
@@ -23,14 +23,14 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 🏢 College at  
+### 🏢 College at  
 - 🎓 **Nazareth College of Arts & Science**
 - 💼 Internships at **Unified Mentor** & **Teachsub Technologies**
 - 🔁 Open to Web Dev Internships & Entry Roles
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:hemnathvrx@gmail.com">
@@ -43,7 +43,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 💻 Coding Profiles
+### 💻 Coding Profiles
 
 <p align="left">
   <a href="https://github.com/Hemnath-V" target="_blank">
@@ -59,7 +59,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 🧠 I Code In
+### 🧠 I Code In
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>    
@@ -79,7 +79,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 🛠️ IDE & Tools I Use
+### 🛠️ IDE & Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
@@ -91,7 +91,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 💻 Workspace Setup
+### 💻 Workspace Setup
 
 - 🖥️ Laptop: HP VICTUS 
 - 🧠 RAM: 8GB  
@@ -99,13 +99,13 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 📈 GitHub Activity Graph
+### 📈 GitHub Activity Graph
 
 [![Hemnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemnath-V&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/Hemnath-V)
 
 ---
 
-## ✨ Quote to Code By
+### ✨ Quote to Code By
 
 > *"Code is like humor. When you have to explain it, it’s bad."*  
 > — Cory House
