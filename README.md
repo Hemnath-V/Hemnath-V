@@ -107,17 +107,13 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 [![Hemnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemnath-V&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/Hemnath-V)
 
 ---
-
 ---
 
-<h3 align="center">✨ Quote to Code By</h3>
+### ✨ Quote to Code By
 
-<p align="center">
-  <em>"Started with console.log('Hello World'),<br>
-  Now building worlds with React & a pinch of AI."</em> 🚀
-</p>
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+> — Cory House
 
 ---
-
 
 ⭐ **Thanks for visiting my profile! Drop a ⭐ on your favorite project**
