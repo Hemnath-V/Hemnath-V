@@ -32,6 +32,8 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ### 🌐 Connect with Me
 
+### 📫 Connect with Me
+
 <p align="left">
   <a href="mailto:hemnathvrx@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" height="40"/>
@@ -46,7 +48,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
   </a>  
 
   <a href="https://www.geeksforgeeks.org/user/hemnath_v/?ref=header_profile" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40"/>
   </a>  
 
   <a href="https://leetcode.com/u/Hemnath-V/" target="_blank">
