@@ -31,31 +31,31 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-### 📫 Connect with Me
+### 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:hemnathvrx@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" height="40"/>
-  </a>  
-
+  <a href="mailto:hemnathvrx@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
+  </a>    
   <a href="https://www.linkedin.com/in/hemnath-front-end-web-developer-react-css-coimbatore-javascript-software-html-node-mongodb-fresher/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40"/>
-  </a>  
-
-  <a href="https://github.com/Hemnath-V" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>
-  </a>  
-
-  <a href="https://www.geeksforgeeks.org/user/hemnath_v/?ref=header_profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40"/>
-  </a>  
-
-  <a href="https://leetcode.com/u/Hemnath-V/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
 
+### 💻 Coding Profiles
+
+<p align="left">
+  <a href="https://github.com/Hemnath-V" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40" alt="GitHub"/>
+  </a>    
+  <a href="https://www.geeksforgeeks.org/user/hemnath_v/?ref=header_profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GeeksforGeeks"/>
+  </a>    
+  <a href="https://leetcode.com/u/Hemnath-V/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
