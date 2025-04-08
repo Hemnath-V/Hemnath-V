@@ -110,24 +110,9 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemnath-V&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemnath-V&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemnath-V&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
-## 🧠 GFG Stats
-
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Writeups-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hemnath_v/?ref=header_profile)
-
----
-
-## 🔢 LeetCode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Hemnath-V?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/u/Hemnath-V/)
-
----
 
 ## 📈 GitHub Activity Graph
 
