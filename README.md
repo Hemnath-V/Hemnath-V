@@ -12,7 +12,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-### 🌱 I’m currently learning & building
+## 🌱 I’m currently learning & building
 🧑‍💻 Creating Web Development projects using React
 
 🎨 Learning and leveling up in Front-End Development
@@ -101,7 +101,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ### 📈 GitHub Activity Graph
 
-[![Hemnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemnath-V&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/Hemnath-V)
+[![Hemnath's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hemnath-V&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/Hemnath-V)
 
 ---
 
