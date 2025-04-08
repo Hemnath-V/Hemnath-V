@@ -101,8 +101,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ### 📈 GitHub Activity Graph
 
-[![Hemnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemnath-V&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/Hemnath-V)
-
+![Hemnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemnath-V&theme=github-compact&color=000000&line=000000&point=000000&bg_color=ffffff&hide_border=true)
 
 ---
 
