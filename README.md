@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, It's me Hemnath V</h1>
 <h3 align="center">Web Developer | Python Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77300&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Code.;Web+Projects+in+Progress.;Always+Learning+%26+Building!" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Hemnath;Frontend+Developer+%F0%9F%92%BB;React+%7C+CSS+%7C+JavaScript+%7C+Python+Lover;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
 
 ---
 
