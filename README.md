@@ -5,15 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Code.;Web+Projects+in+Progress.;Always+Learning+%26+Building!" alt="Typing SVG" />
 </p>
 
-
 ---
 
-### 🔭 Portfolio
+## 🔭 Portfolio
 Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.com)
 
 ---
 
-### I’m currently learning & building
+## I’m currently learning & building
 🧑‍💻 Creating Web Development projects using React
 
 🎨 Learning and leveling up in Front-End Development
@@ -24,14 +23,14 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-### 🏢 College at  
+## 🏢 College at  
 - 🎓 **Nazareth College of Arts & Science**
 - 💼 Internships at **Unified Mentor** & **Teachsub Technologies**
 - 🔁 Open to Web Dev Internships & Entry Roles
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:hemnathvrx@gmail.com">
@@ -44,7 +43,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-### 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p align="left">
   <a href="https://github.com/Hemnath-V" target="_blank">
@@ -80,7 +79,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-### 🛠️ IDE & Tools I Use
+## 🛠️ IDE & Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
@@ -89,7 +88,6 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
-
 
 ---
 
@@ -107,13 +105,13 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-### ✨ Quote to Code By
+## ✨ Quote to Code By
 
 > *"Code is like humor. When you have to explain it, it’s bad."*  
 > — Cory House
-
----
-
-⭐ **Thanks for visiting my profile! Drop a ⭐ on your favorite project**
+>
+> ---
+>
+> ⭐ **Thanks for visiting my profile! Drop a ⭐ on your favorite project**
 
 ---
