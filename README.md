@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77300&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Code.;Web+%26+Data+Projects+in+Progress.;Always+Learning+%26+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77300&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Code.;Web+%26+Projects+in+Progress.;Always+Learning+%26+Building!" alt="Typing SVG" />
 </p>
 
 ---
