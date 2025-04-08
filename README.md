@@ -32,10 +32,28 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemnath-front-end-web-developer-react-css-coimbatore-javascript-software-html-node-mongodb-fresher/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1f8b4c?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hemnath_v/?ref=header_profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hemnath-V/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemnath-V)
+<p align="left">
+  <a href="mailto:hemnathvrx@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" height="40"/>
+  </a>  
+
+  <a href="https://www.linkedin.com/in/hemnath-front-end-web-developer-react-css-coimbatore-javascript-software-html-node-mongodb-fresher/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40"/>
+  </a>  
+
+  <a href="https://github.com/Hemnath-V" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>
+  </a>  
+
+  <a href="https://www.geeksforgeeks.org/user/hemnath_v/?ref=header_profile" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" width="40" height="40"/>
+  </a>  
+
+  <a href="https://leetcode.com/u/Hemnath-V/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 ---
@@ -43,17 +61,27 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 ## 🧠 I Code In
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  
+  
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
+
 
 
 ---
@@ -61,13 +89,19 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 ## 🧰 IDEs and Tools I Use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>  
+  
+  <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40" height="40"/>  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>  
+  
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/>  
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
+
 
 ---
 
