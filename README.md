@@ -1,9 +1,11 @@
-<h1 align="center">Hi there 👋, It's me Hemnath V</h1>
-<h3 align="center">Web Developer | Python Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=DA70D6&center=true&vCenter=true&width=500&lines=Hi+there+👋,+It's+me+Hemnath+V" alt="Hi I'm Hemnath V" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Code.;Web+Projects+in+Progress.;Always+Learning+%26+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=420&lines=Web+Developer+%7C+Python+Enthusiast" alt="Web Developer | Python Enthusiast" />
 </p>
+
 
 ---
 
@@ -12,7 +14,7 @@ Checkout my portfolio 👉 [My Portfolio Website](https://your-portfolio-link.co
 
 ---
 
-## 🌱 I’m currently learning & building
+## 🌱 I’m currently learning & building :
 🧑‍💻 Creating Web Development projects using React
 
 🎨 Learning and leveling up in Front-End Development
