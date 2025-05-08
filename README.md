@@ -67,7 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>    
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="40"/>    
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="40" height="40" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" height="40" alt="Excel"/>
+
 
  
 </p>
