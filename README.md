@@ -1,34 +1,34 @@
-<h1 align="center">Hi there 👋, It's me Hemnath V</h1>
-<h3 align="center">Data Analyst | Python Enthusiast | Power BI Developer</h3>
+<h1 align="center">👋 Hi there, It's me Hemnath V</h1>
+<h3 align="center">📊 Data Analyst | 🐍 Python Enthusiast | 📈 Power BI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Transforming+Data+into+Insights.;Building+Dashboards+%26+Reports.;Always+Learning+%26+Analyzing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Transforming+Data+into+Insights.;Building+Dashboards+%26+Reports.;Always+Learning+%26+Analyzing!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔭 Portfolio  
-Checkout my portfolio 👉 [My Data Portfolio Website](https://your-portfolio-link.com)
+🚀 Check out my portfolio 👉 [My Data Portfolio Website](https://your-portfolio-link.com)
 
 ---
 
-## 🌱 I’m currently learning & building:
-📊 Power BI Dashboards using real-world datasets  
-🐍 Python for Data Cleaning, Analysis & Automation  
-📈 Practicing Data Visualization with Seaborn & Matplotlib  
-🧠 Exploring Machine Learning & Predictive Modeling  
-💡 Experimenting with AI integrations in data pipelines  
+## 🌱 Currently Learning & Building  
+- 📊 **Power BI** Dashboards with real-world data  
+- 🐍 **Python** for data cleaning, analysis & automation  
+- 📉 **Visualization** using Seaborn & Matplotlib  
+- 🧠 Exploring **Machine Learning & Predictive Modeling**  
+- 🤖 Experimenting with **AI integrations** in data workflows  
 
 ---
 
-### 🏢 College at  
+### 🏫 Education & Internships  
 - 🎓 **Nazareth College of Arts & Science**  
 - 💼 Internships at **Unified Mentor** & **Teachsub Technologies**  
-- 🔁 Open to Data Analyst / Data Science Internships & Entry Roles  
+- 🚪 Open to **Data Analyst / Data Science Internships & Entry Roles**  
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="mailto:hemnathvrx@gmail.com">
@@ -47,8 +47,8 @@ Checkout my portfolio 👉 [My Data Portfolio Website](https://your-portfolio-li
   <a href="https://github.com/Hemnath-V" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40" alt="GitHub"/>
   </a>    
-  <a href="https://www.hackerrank.com/dashboard" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40" alt="HackerRank"/>
+  <a href="https://leetcode.com/u/Hemnath-V/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
   </a>    
   <a href="https://www.geeksforgeeks.org/user/hemnath_v/?ref=header_profile" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GeeksforGeeks"/>
@@ -57,7 +57,7 @@ Checkout my portfolio 👉 [My Data Portfolio Website](https://your-portfolio-li
 
 ---
 
-### 🧠 I Analyze Data With
+### 🧠 Tools I Analyze Data With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>    
@@ -72,7 +72,7 @@ Checkout my portfolio 👉 [My Data Portfolio Website](https://your-portfolio-li
 
 ---
 
-### 🛠️ IDE & Tools I Use
+### 🛠️ IDEs & Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
@@ -83,27 +83,24 @@ Checkout my portfolio 👉 [My Data Portfolio Website](https://your-portfolio-li
 
 ---
 
-### 💻 Workspace Setup
+### 💻 Workspace Setup  
 
-- 🖥️ Laptop: HP VICTUS  
-- 🧠 RAM: 8GB  
-- ⚙️ OS: Windows 11  
+- 💻 **Laptop**: HP VICTUS  
+- 🧠 **RAM**: 8GB  
+- ⚙️ **OS**: Windows 11  
 
 ---
 
 ### 📈 GitHub Activity Graph
 
 <picture>
-  <!-- Dark mode image -->
   <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hemnath-V&theme=github-compact&color=ffffff&line=ffffff&point=ffffff&bg_color=000000&hide_border=true" media="(prefers-color-scheme: dark)">
-  
-  <!-- Light mode image -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemnath-V&theme=github-compact&color=000000&line=000000&point=000000&bg_color=ffffff&hide_border=true" alt="GitHub Activity Graph">
 </picture>
 
 ---
 
-### ✨ Quote to Analyze By
+<h3 align="center" style="font-size: 1.5rem">✨ <strong>Quote to Analyze By</strong> ✨</h3>
 
-> *"Without data, you’re just another person with an opinion."*  
-> — W. Edwards
+<h2 align="center"><em>"Without data, you’re just another person with an opinion."</em></h2>
+<h3 align="center">— W. Edwards</h3>
