@@ -34,7 +34,7 @@
   <a href="mailto:hemnathvrx@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>    
-  <a href="https://www.linkedin.com/in/hemnathv-data-analyst-junior-scientist-coimbatore-fresher-sql-powerbi/" target="_blank">
+  <a href="https://www.linkedin.com/in/hemnath-data-analyst-python-mysql-powerbi-excel-genai-data-scientist-ml-llm-pyspark-eda-etl/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
